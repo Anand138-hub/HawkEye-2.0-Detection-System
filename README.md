@@ -236,7 +236,7 @@ Consider the context and source
 📞 Support & Contact
 
 🐛 Issues: GitHub Issues
-📧 Email: your-email@domain.com
+📧 Email: gouraanand62@gmail.com
 💬 Team: Contact Team Innovators for support
 
 
